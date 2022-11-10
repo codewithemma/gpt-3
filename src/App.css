@@ -1,0 +1,41 @@
+body {
+  background-color: #040c18;
+}
+.bg-main {
+  background-color: #002853;
+}
+.bg-orange {
+  background-color: #ff4820;
+}
+.navbar-text {
+  font-size: 18px;
+}
+.hero-header {
+  background: linear-gradient(89.97deg, #ae67fa 1.84%, #f49867 102.67%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-emphasis-color: transparent;
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: -0.04em;
+}
+.hero-header-text {
+  font-style: normal;
+  font-weight: 400;
+  /* font-size: 20px; */
+  line-height: 27px;
+  color: #81afdd;
+}
+.blur {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  left: -100px;
+  top: -150px;
+  background: #002853;
+  filter: blur(282px);
+}
+.header-text-p {
+  font-size: 14px;
+}
